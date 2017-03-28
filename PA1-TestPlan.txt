@@ -1,0 +1,8 @@
+﻿HOW-TO-RUN
+-Navigate to the correct directory in terminal
+-Run the server jar using “java -jar RemoteServer.jar”
+-The pop-up window for the server should report something like “Multi-Threaded Server Started at Mon Mar 27 11:46:18 EDT 2017”
+-Run the caller jar using “java -jar RemoteCaller.jar”
+-Enter “r” or “l” to determine the string rotation you need. 
+-Enter a string and watch in amazement as it is rotated 1,000 times. 
+-When you are done with the server use the quit button to properly close it.
